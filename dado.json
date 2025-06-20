@@ -1,1 +1,11 @@
+[
+  {
+    "Máquina": "1",
+    "Braço 1": 10,
+    "Braço 2": 20,
+    "Braço 3": 30,
+    "KG Produzido": 100.5,
+    "Meta (KG)": 150
+  }
+]
 
